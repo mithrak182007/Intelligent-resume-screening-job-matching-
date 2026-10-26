@@ -1,0 +1,11 @@
+Junior Python Developer
+
+Required:
+- Python programming and debugging
+- SQL and database fundamentals
+- Git version control
+- REST API development
+Preferred:
+- Django or FastAPI
+- Unit testing
+- Clear communication and teamwork
