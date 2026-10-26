@@ -1,0 +1,17 @@
+SYNTHETIC SAMPLE RESUME — NOT A REAL PERSON
+
+Summary
+Entry-level software developer interested in backend development and data analysis.
+
+Skills
+Python, SQL, Git, REST APIs, FastAPI, and unit testing.
+
+Projects
+Built a student survey API using FastAPI and SQLite. Used Python to validate inputs and SQL queries to store survey responses. Tracked source code with Git and GitHub.
+Created automated unit tests and debugged validation issues.
+
+Education
+Bachelor of Engineering in Computer Science.
+
+Activities
+Presented a project demonstration to classmates and explained design decisions clearly.
